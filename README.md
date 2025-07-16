@@ -23,9 +23,9 @@ A powerful, customizable Universal Code Viewer for Flutter that supports 50+ pro
 
 ## Platform Support
 
-| Android | iOS | Web | macOS | Linux | Windows |
+| Android | iOS | Web |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| ✅ | ✅ | ✅ |
 
 ## Preview
 
